@@ -15,14 +15,14 @@ Start the Macintosh emulator in the browser. You can find this emulator at:
 
 Wait until the emulator has fully started. The screen should look like the image below.
 
-![fully started emulator](docs\startup.png)
+![fully started emulator](docs/startup.png)
 
 
 Drag and drop the virtual disk image (the one now named with the **.image** extension) onto the emulator.  
 If everything has been done correctly, a window named **"CW Folder"** will open inside the emulator.
 
 
-![CW Folder](docs\cwfolder.png)
+![CW Folder](docs/cwfolder.png)
 
 
 Double-click the file named **"ChipWIts"** (the first file in the folder).  
@@ -31,11 +31,11 @@ After compilation, the application will start automatically. This may take some 
 
 After waiting for a while, the screen will come back to life, and at the bottom, you will see **"ok"**.  
 
-![ChipWits Compile ready](docs\buildready.png)
+![ChipWits Compile ready](docs/buildready.png)
 
 Now, click above the title bar that contains **"MacForth ..."**.  
 Your self-built version of ChipWits will now start.
 
-![ChipWits Compile ready](docs\ChipWits.png)
+![ChipWits Compile ready](docs/ChipWits.png)
 
 The version you just built is most likely **ChipWits 1.2**. I am still working on proving this, but this process is rather complex.
