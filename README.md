@@ -36,6 +36,6 @@ After waiting for a while, the screen will come back to life, and at the bottom,
 Now, click above the title bar that contains **"MacForth ..."**.  
 Your self-built version of ChipWits will now start.
 
-![ChipWits Compile ready](docs/ChipWits.png)
+![ChipWits Compile ready](docs/ChipWIts.png)
 
 The version you just built is most likely **ChipWits 1.2**. I am still working on proving this, but this process is rather complex.
